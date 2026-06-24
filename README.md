@@ -1,3 +1,4 @@
+
 # 🍲 Spring Boot + Elasticsearch: Food Delivery Search Service
 
 This microservice provides high-performance CRUD and advanced search capabilities for a food delivery platform. It uses **Elasticsearch** as a specialized search store to handle fuzzy matching, weighted results, and real-time aggregations.
